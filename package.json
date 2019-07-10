@@ -19,7 +19,7 @@
   "dependencies": {
     "array-index": "1",
     "debug": "4",
-    "ref": "lxe/ref#node-12"
+    "ref": "diegozhu/ref#node-12"
   },
   "devDependencies": {
     "bindings": "1",
